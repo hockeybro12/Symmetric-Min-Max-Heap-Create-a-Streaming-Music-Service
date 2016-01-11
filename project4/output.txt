@@ -1,0 +1,68 @@
+S5: N=20, L=20, pop=60
+S13: N=20, L=20, pop=60
+S15: N=20, L=20, pop=60
+S17: N=20, L=20, pop=60
+S26: N=20, L=20, pop=60
+S28: N=20, L=20, pop=60
+S33: N=20, L=20, pop=60
+S36: N=20, L=20, pop=60
+S44: N=20, L=20, pop=60
+S48: N=20, L=20, pop=60
+S51: N=20, L=20, pop=60
+1: S13, pop=60
+2: S17, pop=60
+3: S36, pop=60
+S33: N=17, L=20, pop=57
+S33: N=23, L=30, pop=83
+S17: N=26, L=19, pop=64
+S66: N=20, L=20, pop=60
+S44: N=25, L=21, pop=67
+S17: N=22, L=15, pop=52
+S26: N=26, L=28, pop=82
+S13: N=22, L=25, pop=72
+S26: N=32, L=23, pop=78
+S13: N=20, L=23, pop=66
+S44: N=23, L=24, pop=71
+1: S33, pop=83
+2: S26, pop=78
+3: S44, pop=71
+S17 deleted, pop=52
+S26 deleted, pop=78
+S44 deleted, pop=71
+S36 deleted, pop=60
+S15 deleted, pop=60
+S48 deleted, pop=60
+S13 deleted, pop=66
+S66 deleted, pop=60
+S114: N=20, L=20, pop=60
+S116: N=20, L=20, pop=60
+S122: N=20, L=20, pop=60
+S126: N=20, L=20, pop=60
+S133: N=20, L=20, pop=60
+S140: N=20, L=20, pop=60
+S144: N=20, L=20, pop=60
+S148: N=20, L=20, pop=60
+S152: N=20, L=20, pop=60
+S157: N=20, L=20, pop=60
+Printing FUCKING NOW
+Starting
+S51
+S33
+S5
+S28
+S114
+S116
+S122
+S126
+S133
+S140
+S144
+S148
+S152
+1: S33, pop=83
+2: S28, pop=60
+3: S126, pop=60
+S116: N=29, L=27, pop=83
+S140: N=26, L=26, pop=78
+S148: N=24, L=23, pop=70
+Error semantics date 40
